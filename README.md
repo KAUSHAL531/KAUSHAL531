@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mak_1821" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mak_1821" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayur-chaudhary-872917176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mayur-chaudhary-872917176" height="30" width="40" /></a>
+<a href="https://twitter.com/Kaushal15029553" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Kaushal15029553" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaushal-patel-b68777124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushal-patel-b68777124" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11617924" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11617924" height="30" width="40" /></a>
-<a href="https://instagram.com/imak_18_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imak_18_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/being_kp531" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="being_kp531" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
