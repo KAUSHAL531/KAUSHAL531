@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaushak Patel</h1>
+<h1 align="center">Hi 👋, I'm Kaushal Patel</h1>
 <h3 align="center">A magento developer</h3>
 
 - 🌱 I’m currently learning **React**
